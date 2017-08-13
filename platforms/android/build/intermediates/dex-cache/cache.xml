@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\USBWebserver v8.6\root\ionic\kickstarter\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d803c9228495945b776dcb141a0a243dd8bd87f">
+        <dex dex="D:\USBWebserver v8.6\root\ionic\kickstarter\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-6.2.3-release_b6dfa1cd7b156f413093b40725948dca1d7a8578.jar" />
+    </item>
+
+</items>
