@@ -6,5 +6,5 @@ https://github.com/AhilJose/kickstarter/blob/master/kickstarter.apk
 
 also in the "https://github.com/AhilJose/kickstarter/tree/master/platforms/android/build/outputs/apk/" folder
 
-### Ionic project contains gitignore
+### Ionic project contains gitignore everyever
 Missing of folders and files are because of this.
